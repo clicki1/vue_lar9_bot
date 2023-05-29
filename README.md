@@ -7,7 +7,7 @@ TELEGRAM BOT
 
 3 - bots.php
 -----------
-<?php
+
 return [
     'bot' => '<BOT_ID>'
 ];
