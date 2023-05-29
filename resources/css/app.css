@@ -1,0 +1,20 @@
+/*body { overflow: hidden; }*/
+.owerfl {
+
+
+    max-height: 500px;
+
+}
+.row {
+    --bs-gutter-x: 0;
+}
+.pt-6 {
+    padding-top: 4rem !important;
+}
+
+.observer {
+    height: 30px;
+}
+progress{
+    width: 100%;
+}
